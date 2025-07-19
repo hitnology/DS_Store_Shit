@@ -1,0 +1,6 @@
+{
+  "ble": {
+    "name": "DSSTORE",
+    "characteristic_uuid": "8971bf5a-3b9c-4fcb-bef7-2832f9f8f0dd"
+  }
+}
